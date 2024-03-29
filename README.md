@@ -28,3 +28,8 @@ https://help.figma.com/hc/en-us/articles/360038662654-Guide-to-components-in-Fig
   - allows to alter changes o every where in design for component instance
   - select container on page , from top select component .
   - implements states after creating varients
+
+### Extensions
+  - unsplash
+  - brandfetch
+  - Iconify
